@@ -19,13 +19,13 @@ This library is a custom progress view.
 
 ## Usage <a name="Usage"></a>
 
-To use a *ProgressView*, all you will need is to import `ProgressView` module into your swift file:
+To use a *ProgressView*, all you need is to import `ProgressView` module into your swift file:
 
 ```swift
 import ProgressView
 ```
 
-There are two types of progress view in *ProgressView*. There are two types: `ProgressBar` and `ProgressRing`. Both of them have similar properties and methods. Public properties are designed to customize the desired appearance, fill animation and property `progress` to get current progress value.
+There are two types: `ProgressBar` and `ProgressRing`. Both of them have similar properties and methods. Public properties are designed to customize the desired appearance, fill animation and property `progress` to get current progress value.
 
 ```swift
 /// ProgressBar instance
